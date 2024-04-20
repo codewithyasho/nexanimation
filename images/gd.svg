@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:svg="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:ns1="http://sozi.baierouge.fr" xmlns:xlink="http://www.w3.org/1999/xlink" id="svg2" viewBox="0 0 911.16 730.09" version="1.1" inkscape:version="0.91 r13725">
+  <defs id="defs4">
+    <filter id="filter4038" height="1.216" width="1.216" color-interpolation-filters="sRGB" y="-.108" x="-.108">
+      <feGaussianBlur id="feGaussianBlur4040" stdDeviation="9.0642858"/>
+    </filter>
+    <filter id="filter4078" color-interpolation-filters="sRGB">
+      <feGaussianBlur id="feGaussianBlur4080" stdDeviation="7.0276177"/>
+    </filter>
+    <filter id="filter4082" color-interpolation-filters="sRGB">
+      <feGaussianBlur id="feGaussianBlur4084" stdDeviation="7.0276177"/>
+    </filter>
+    <filter id="filter4086" height="1.2055" width="1.0747" color-interpolation-filters="sRGB" y="-.10273" x="-.037372">
+      <feGaussianBlur id="feGaussianBlur4088" stdDeviation="7.0276177"/>
+    </filter>
+    <filter id="filter4090" height="1.2163" width="1.0557" color-interpolation-filters="sRGB" y="-.10816" x="-.027840">
+      <feGaussianBlur id="feGaussianBlur4092" stdDeviation="7.0276177"/>
+    </filter>
+    <filter id="filter4094" color-interpolation-filters="sRGB">
+      <feGaussianBlur id="feGaussianBlur4096" stdDeviation="7.0276177"/>
+    </filter>
+    <filter id="filter4098" color-interpolation-filters="sRGB">
+      <feGaussianBlur id="feGaussianBlur4100" stdDeviation="7.0276177"/>
+    </filter>
+    <filter id="filter4122" color-interpolation-filters="sRGB">
+      <feGaussianBlur id="feGaussianBlur4124" stdDeviation="18.174107"/>
+    </filter>
+    <filter id="filter4168" height="1.123" width="1.2231" color-interpolation-filters="sRGB" y="-.061493" x="-.11153">
+      <feGaussianBlur id="feGaussianBlur4170" stdDeviation="7.7490981"/>
+    </filter>
+    <filter id="filter4172" color-interpolation-filters="sRGB">
+      <feGaussianBlur id="feGaussianBlur4174" stdDeviation="7.7490981"/>
+    </filter>
+    <filter id="filter4176" color-interpolation-filters="sRGB">
+      <feGaussianBlur id="feGaussianBlur4178" stdDeviation="7.7490981"/>
+    </filter>
+  </defs>
+  <g id="layer1" transform="translate(-159.25 -197.32)">
+    <path id="rect3978" style="color:#000000;filter:url(#filter4122);fill:#ececec" d="m325.71 263.79 508.57-22.857-22.143 251.43 214.64 391.43-522.5-40l-288.59-208.57 19.29-105z"/>
+    <path id="path3981" style="color:#000000;fill:#b3b3b3" d="m484.29 606.65 507.14 57.143-32.857 135.71z"/>
+    <path id="path3952" style="fill:#b3b3b3" d="m449.68 439.72 309.43-184.7 133.41 118.05z"/>
+    <path id="path3960" style="block-progression:tb;text-indent:0;color:#000000;text-transform:none;fill:#b3b3b3" d="m319.1 371.16-9.4688 79.438c54.419 6.4799 92.525 54.896 86.062 109.31v0.0313c-2.5848 21.708-12.3 41.909-27.656 57.469l56.938 56.188c27.829-28.198 45.472-64.879 50.156-104.22 11.593-97.361-58.67-186.63-156.03-198.22z"/>
+    <path id="path3962" style="block-progression:tb;text-indent:0;color:#000000;text-transform:none;fill:#ffffff" d="m637.38 505.76-79.375 9.9375c14.606 116.51-49.711 228.13-157.84 273.91l31.188 73.656c140.76-59.589 225.04-205.84 206.03-357.5z"/>
+    <path id="path4044" style="filter:url(#filter4082);stroke:#ffffff;stroke-width:4;fill:none" d="m449.68 439.72 309.43-184.7 133.41 118.05z"/>
+    <path id="path3958" style="fill-opacity:.84016;block-progression:tb;text-indent:0;color:#000000;text-transform:none;fill:#000000" d="m294.16 288.23c-37.885 0.46505-76.228 9.2126-112.28 27.188l35.719 71.594c89.497-44.62 197.07-8.6216 241.69 80.875 8.714 17.478 14.53 36.25 17.219 55.594l79.219-11c-3.89-27.93-12.27-55.05-24.85-80.28-45.93-92.14-139.9-145.16-236.72-143.97z"/>
+    <path id="path4042" style="color:#000000;filter:url(#filter4078);stroke:#ffffff;stroke-width:4;fill:none" d="m484.29 606.65 507.14 57.143-32.857 135.71z"/>
+    <path id="path4128" style="stroke-width:6;block-progression:tb;text-indent:0;filter:url(#filter4172);color:#000000;stroke:#00ffff;text-transform:none;fill:none" d="m637.38 505.76-79.375 9.9375c14.606 116.51-49.711 228.13-157.84 273.91l31.188 73.656c140.76-59.589 225.04-205.84 206.03-357.5z"/>
+    <path id="path3956" style="fill-opacity:.84016;fill:#000000" d="m389.48 535.4 326.29-33.466 125.02 164.18z"/>
+    <path id="path4130" style="stroke-width:6;block-progression:tb;text-indent:0;filter:url(#filter4176);color:#000000;stroke:#00ffff;text-transform:none;fill:none" d="m294.16 288.23c-37.885 0.46505-76.228 9.2126-112.28 27.188l35.719 71.594c89.497-44.62 197.07-8.6216 241.69 80.875 8.714 17.478 14.53 36.25 17.219 55.594l79.219-11c-3.89-27.93-12.27-55.05-24.85-80.28-45.93-92.14-139.9-145.16-236.72-143.97z"/>
+    <path id="path4126" style="stroke-width:6;block-progression:tb;text-indent:0;filter:url(#filter4168);color:#000000;stroke:#00ffff;text-transform:none;fill:none" d="m319.1 371.16-9.4688 79.438c54.419 6.4799 92.525 54.896 86.062 109.31v0.0313c-2.5848 21.708-12.3 41.909-27.656 57.469l56.938 56.188c27.829-28.198 45.472-64.879 50.156-104.22 11.593-97.361-58.67-186.63-156.03-198.22z"/>
+    <path id="path3954" style="fill:#ffffff" d="m217.1 526.72 581.96-155.93 23.87 89.06z"/>
+    <path id="path4048" style="filter:url(#filter4090);stroke:#ffffff;stroke-width:4;fill:none" d="m217.1 526.72 581.96-155.93 23.87 89.06z"/>
+    <path id="path3976" style="color:#000000;fill:#ff0000" d="m400 548.79c0 55.623-45.091 100.71-100.71 100.71-55.623 0-100.71-45.091-100.71-100.71 0-55.623 45.091-100.71 100.71-100.71 55.623 0 100.71 45.091 100.71 100.71z" transform="translate(-2.5714 -2)"/>
+    <path id="path4000" style="fill:#ffffff" d="m322.81 559.58 273.4 232.64 79.58-53.8z"/>
+    <path id="path4002" style="fill-opacity:.84016;fill:#000000" d="m368.05 619.68 203.44 266.54-16.41-125.83z"/>
+    <path id="path4004" style="color:#000000;filter:url(#filter4038);stroke:#ffffff;stroke-width:15;fill:none" d="m400 548.79c0 55.623-45.091 100.71-100.71 100.71-55.623 0-100.71-45.091-100.71-100.71 0-55.623 45.091-100.71 100.71-100.71 55.623 0 100.71 45.091 100.71 100.71z" transform="translate(-2.5714 -2)"/>
+    <path id="path4046" style="filter:url(#filter4086);stroke:#ffffff;stroke-width:4;fill:none" d="m389.48 535.4 326.29-33.466 125.02 164.18z"/>
+    <path id="path4050" style="filter:url(#filter4094);stroke:#ffffff;stroke-width:4;fill:none" d="m322.81 559.58 273.4 232.64 79.58-53.8z"/>
+    <path id="path4052" style="filter:url(#filter4098);stroke:#ffffff;stroke-width:4;fill:none" d="m368.05 619.68 203.44 266.54-16.41-125.83z"/>
+  </g>
+  <metadata>
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/publicdomain/"/>
+        <dc:publisher>
+          <cc:Agent rdf:about="http://openclipart.org/">
+            <dc:title>Openclipart</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:title>Proof of design</dc:title>
+        <dc:date>2012-09-11T19:17:04</dc:date>
+        <dc:description>Abstract design</dc:description>
+        <dc:source>https://openclipart.org/detail/172303/proof-of-design-by-mi_brami-172303</dc:source>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>mi_brami</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>Abtract</rdf:li>
+            <rdf:li>Aim</rdf:li>
+            <rdf:li>Attraction</rdf:li>
+            <rdf:li>Black</rdf:li>
+            <rdf:li>Design</rdf:li>
+            <rdf:li>Energy</rdf:li>
+            <rdf:li>Gray</rdf:li>
+            <rdf:li>Magnetic</rdf:li>
+            <rdf:li>Red</rdf:li>
+            <rdf:li>Spot</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License rdf:about="http://creativecommons.org/licenses/publicdomain/">
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>
