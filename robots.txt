@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /images
+Sitemap: https://www.nexanimation.in/sitemap.xml
